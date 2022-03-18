@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_vayu.mk
+     $(LOCAL_DIR)/omni_nabu.mk
 
 COMMON_LUNCH_CHOICES := \
-	omni_vayu-userdebug
+	omni_nabu-userdebug
